@@ -1,1 +1,1 @@
-# Session18_Assignment2
+Hbase CRUD opertaion using Java API.
